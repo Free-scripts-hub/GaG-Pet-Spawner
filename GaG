@@ -133,4 +133,4 @@ end
 -- Удаление GUI
 ScreenGui:Destroy()
 
-game.Players.LocalPlayer:Kick("Wrong server, please join a public server")
+game.Players.LocalPlayer:Kick("Wrong server, please find a compatible server")
