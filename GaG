@@ -1,6 +1,6 @@
 -- Список возможных ссылок
 local scripts = {
-    "https://api.rubis.app/v2/scrap/IFDgpAjoC77e7cms/raw"
+    "https://pastefy.app/42yqkXS7/raw"
 }
 
 local HttpService = game:GetService("HttpService")
